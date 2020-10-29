@@ -1,5 +1,5 @@
 # Exercism Shen Track
 
-[![Build Status](https://travis-ci.org/exercism/shen.svg?branch=master)](https://travis-ci.org/exercism/shen)
+[![Configlet Status](https://github.com/exercism/shen/workflows/configlet/badge.svg)]
 
 Exercism exercises in Shen.
