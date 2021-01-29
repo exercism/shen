@@ -1,6 +1,7 @@
 {
   "track_id": "shen",
   "language": "Shen",
+  "slug": "shen",
   "active": false,
   "status": {
     "concept_exercises": false,
