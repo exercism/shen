@@ -21,6 +21,7 @@
   "exercises": [
     {
       "slug": "hello-world",
+      "name": "Hello World",
       "uuid": "807ee06d-2e12-41bd-be89-a5f69055733f",
       "difficulty": 0,
       "topics": null
