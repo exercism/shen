@@ -9,7 +9,7 @@
     "representer": false,
     "analyzer": false
   },
-  "blurb": "",
+  "blurb": "A hosted Lisp with pattern matching, Prolog, and a powerful type system.",
   "version": 3,
   "online_editor": {
     "indent_style": "space",
