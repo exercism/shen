@@ -20,16 +20,16 @@
   "test_pattern": "[Tt]est",
   "files": {
     "solution": [
-      "path/to/%{kebab_slug}.ext"
+      "%{kebab_slug}.shen"
     ],
     "test": [
-      "path/to/%{kebab_slug}.ext"
+      "%{kebab_slug}-tests.shen"
     ],
     "example": [
-      "path/to/%{kebab_slug}.ext"
+      ".meta/example.shen"
     ],
     "exemplar": [
-      "path/to/%{kebab_slug}.ext"
+      ".meta/exemplar.shen"
     ]
   },
   "exercises": {
