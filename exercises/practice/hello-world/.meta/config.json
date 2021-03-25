@@ -4,9 +4,15 @@
     "jaccarmac"
   ],
   "files": {
-    "solution": [],
-    "test": [],
-    "example": []
+    "solution": [
+      "hello-world.shen"
+    ],
+    "test": [
+      "hello-world-tests.shen"
+    ],
+    "example": [
+      ".meta/example.shen"
+    ]
   },
   "source": "This is an exercise to introduce users to using Exercism",
   "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
