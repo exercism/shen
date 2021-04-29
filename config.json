@@ -13,7 +13,9 @@
   "version": 3,
   "online_editor": {
     "indent_style": "space",
-    "indent_size": 4
+    "indent_size": 4,
+    "ace_editor_language": "shen",
+    "highlightjs_language": "shen"
   },
   "ignore_pattern": "[Ee]xample",
   "solution_pattern": "[Ee]xample",
@@ -48,5 +50,11 @@
   },
   "concepts": [],
   "key_features": [],
-  "tags": ["paradigm/functional", "paradigm/logic", "typing/static", "typing/dynamic", "execution_mode/interpreted"]
+  "tags": [
+    "paradigm/functional",
+    "paradigm/logic",
+    "typing/static",
+    "typing/dynamic",
+    "execution_mode/interpreted"
+  ]
 }
