@@ -16,9 +16,6 @@
     "indent_size": 2,
     "highlightjs_language": "clojure"
   },
-  "ignore_pattern": "[Ee]xample",
-  "solution_pattern": "[Ee]xample",
-  "test_pattern": "[Tt]est",
   "files": {
     "solution": [
       "%{kebab_slug}.shen"
