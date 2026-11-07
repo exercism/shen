@@ -1,0 +1,13 @@
+(define words
+  "" -> [""]
+  (@s " " Rest) -> ["" | (words Rest)]
+  (@s C Rest) -> (let Ws (words Rest) [(cn C (hd Ws)) | (tl Ws)]))
+
+(define most-common
+  [] Best N _ -> (make-string "~S appears ~A times" Best N)
+  [W | Ws] _ N All -> (most-common Ws W (occurrences W All) All)
+      where (> (occurrences W All) N)
+  [_ | Ws] Best N All -> (most-common Ws Best N All))
+
+(define most-common-word
+  Text -> (let All (words Text) (most-common All "" 0 All)))
